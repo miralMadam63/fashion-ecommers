@@ -1,7 +1,7 @@
 public class increment{
     public static void main( String args[])
     {
-        System.out.println(" hello java ");
+        System.out.println(" hello jaimin ");
         int x=2;
         int z;
 
